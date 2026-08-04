@@ -1,6 +1,9 @@
-# ig-posts
+# ig-posts-100chal
 
 Instagram 自動投稿（IG Harness）で使う画像の置き場。GitHub Pages で配信する。
+対象アカウントは **@yoshisgarden.100chal**。
+アカウントごとにリポジトリを分ける方針なので、別アカウント用は
+`ig-posts-<アカウント名>` を新たに作る。
 
 ## なぜ必要か
 
@@ -12,7 +15,7 @@ Instagram の Content Publishing API は画像ファイルを直接受け取ら�
 ## 公開 URL
 
 ```
-https://yoshisgarden.github.io/ig-posts/images/day001.jpg
+https://yoshisgarden.github.io/ig-posts-100chal/images/day001.jpg
 ```
 
 ## 運用
